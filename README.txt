@@ -2,7 +2,7 @@
 2. Order Confirmation: Use order email address [setEmail] from the order confirmation success page
 3. Subscription Confirmation: Use subscriber email address [setEmail] on the subscription confirmation page
 4. Registration Success: Use customer email address [setEmail] on the registration confirmation page
-5. Cart - Price issue - it should be Subtotal - Ref: http://documentation.emarsys.com/resource/b2c-cloud/web-extend/javascript-api/#cart
+5. Cart - Price issue - it should be Subtotal
 6. Bug Fixes
     a. Installer Script: MySql 5.7 Compatibility
     b. Smart Insight: Headers should always be there in Sales Export CSV file even the queue is empty to avoid the error on Emarsys Side
