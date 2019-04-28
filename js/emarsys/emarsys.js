@@ -58,7 +58,7 @@ function openMyPopup(url)
         id:'browser_window',
         url:url,
         onClose:function (param, el) {
-            //alert('onClose');
+
         }
         }
     );
