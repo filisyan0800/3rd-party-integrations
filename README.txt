@@ -1,4 +1,4 @@
-1. Do not restrict setEmail/setCustomerId to just logged customer
+1. Do not restrict setEmail/setCustomerId to just logged customers
 2. Order Confirmation: Use order email address [setEmail] from the order confirmation success page
 3. Subscription Confirmation: Use subscriber email address [setEmail] on the subscription confirmation page
 4. Registration Success: Use customer email address [setEmail] on the registration confirmation page
